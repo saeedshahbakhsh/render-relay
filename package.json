@@ -1,0 +1,12 @@
+{
+  "name": "render-relay",
+  "version": "1.0.4",
+  "description": "XHTTP Relay for Render",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  }
+}
